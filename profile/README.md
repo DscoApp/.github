@@ -1,4 +1,11 @@
-## Hi there 👋
+## 🚀 Let's start evolution!
+We're a growing company working on evolution of the technology field.
+### ☁️ Services, we provide.
+**[Dscolink](https://dscolink.ga)** - Shorten your link just by following 2 steps.
+
+**[HammerBot](https://hammerbot.gq)** - The only Discord Bot, you'll ever need.
+
+**[Cordly](https://cordly.ga)** - One of the best link shortener with high customizations out there.
 
 <!--
 
